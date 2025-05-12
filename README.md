@@ -63,7 +63,7 @@ ai-blog/
    ```bash
    git clone https://github.com/nethinduhansaka-dev/ai-blog.git
    cd ai-blog
-````
+
 
 2. **Switch to a topic branch**:
 
