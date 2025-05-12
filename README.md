@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # 🧠 AI Blog Repository
 
 Welcome to the **AI Blog** — a Markdown-based blog archive exploring various aspects of Artificial Intelligence. This repository is organized with **dedicated branches** for different topics, themes, or eras in AI, allowing for clean separation of ideas and structured knowledge growth.
@@ -56,7 +56,6 @@ ai-blog/
 
 ````
 
----
 
 ## 🛠 How to Use
 
